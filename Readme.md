@@ -1,0 +1,1 @@
+This is a multi user hospital management application named MediCare.
